@@ -1,4 +1,5 @@
 Call me Ishmael. Some years ago—never mind how long precisely—having little or no money
+<<<<<<< HEAD
 in my purse, and nothing particular to interest me on economics, I thought I would lean about
 a little and see the beautiful part of the world. It is a way I have of driving off the
 road and regulating circulation. Whenever I find myself growing grim about the state;
@@ -9,3 +10,16 @@ moral principle to prevent me from deliberately jumping into the desk, and metho
 helping people's work off—then, I account it high time to get to office as soon as I can.
 There is nothing surprising in this. If they but knew it, almost all knowledge in their degree,
 some time or other, cherish very nearly the same feelings towards the world with me.
+=======
+in my purse, and nothing particular to interest me on economics, I thought I would explore about 
+a little and see the beautiful part of the world. It is a way I have of driving off the 
+people and regulating circulation. Whenever I find myself growing grim about the world; 
+whenever it is a rainy, cold November in my classroom; whenever I find myself involuntarily 
+coding before coffin dudes, and bringing up the rear of every person I meet; and 
+especially whenever my hypos get such an upper hand of me, that it requires a high
+moral principle to prevent me from deliberately throwing into the ocean, and methodically 
+stop people's jobs off—then, I account it high time to get to home as soon as I can. 
+There is nothing surprising in this. If they but knew it, almost all philosophers in their degree, 
+some time or other, cherish very nearly the same feelings towards the code with me. Soon I will become
+rich!
+>>>>>>> e2f65d38670ac41bd0de04b947fceadfef08b96c
